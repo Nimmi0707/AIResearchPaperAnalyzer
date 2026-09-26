@@ -108,3 +108,55 @@ AIResearchPaperAnalyzer/
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
+---
+
+## 🔮 Future Enhancements
+
+- Real-time PDF text extraction
+- LLM-based research paper summarization
+- Citation analysis
+- Research paper recommendation system
+- Semantic search across multiple papers
+- Vector database integration
+- Cloud-based document storage
+- Advanced AI-based research insights
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Nimmi0707/AIResearchPaperAnalyzer.git
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+## 👩‍💻 Author
+
+**Nimmi Singh**
+
+M.Tech Computer Science & Engineering  
+SRM Institute of Science and Technology
+
+GitHub: https://github.com/Nimmi0707
+
+---
+
+## 📄 License
+
+This project is developed for academic, learning, and portfolio purposes.
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
