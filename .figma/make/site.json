@@ -1,0 +1,10 @@
+{
+  "description": "Analyze and explore AI research papers with interactive summaries, keyword visualizations, methodology diagrams, and an AI chat for in-depth insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
